@@ -2,5 +2,5 @@
 
 Learning bit by bit .
 
-Interesting, write.
+Interesting, right?.
 
